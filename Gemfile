@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-# Remove 'gem "github-pages"' completely.
-# Use core Jekyll instead.
+# Use core Jekyll version
 gem "jekyll", "~> 4.3"
 
 # Your theme
@@ -12,4 +11,9 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
   gem "webrick" # Required for Ruby 3.0+ local server
+end
+
+# test script
+group :test do
+  gem "html-proofer"
 end
