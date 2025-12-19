@@ -8,7 +8,7 @@ categories: [DevOps, Cheatsheets]
 tags: [linux, bash, terminal, troubleshooting, server-management]
 pin: true
 media_subpath: '/posts/20180809'
-image: /assets/img/Linux-Essentials.png
+image: /posts/20180809/assets/img/Linux-Essentials.png
 ---
 
 As a DevOps engineer, the terminal is your home. Whether you are debugging a crashing container, analyzing HTTP traffic, or managing file permissions, mastery of the command line is non-negotiable.
