@@ -26,24 +26,24 @@ description: >- # used by seo meta and the atom feed
 url: "https://blog.smicx20.in"
 
 github:
-  username: sm-simplifies # change to your GitHub username
+  username: swapnil-zxo # change to your GitHub username
 
 twitter:
-  username: SMSimplifies # change to your Twitter username
+  username: swapnil_zxo # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Swapnil Mali.
   email: swapnilmali848@gmail.com # change to your email address
-  fediverse_handle: "https://linktr.ee/sm.simplifies" # change to your fediverse handle or leave empty
+  fediverse_handle: "" # change to your fediverse handle or leave empty
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/SMSimplifies # change to your Twitter homepage
-    - https://github.com/sm-simplifies # change to your GitHub homepage
+    - https://twitter.com/swapnil_zxo # change to your Twitter homepage
+    - https://github.com/swapnil-zxo # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/swapnilmali-devops
 
 # Site Verification Settings
 webmaster_verifications:
