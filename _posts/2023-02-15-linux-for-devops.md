@@ -2,7 +2,7 @@
 title: Essential Linux Commands for DevOps Engineers
 description: >-
   This guide covers the "daily driver" commands that go beyond basic navigation, focusing on troubleshooting, resource monitoring, and automation. 
-author: swapnil
+author: swapnilmali101
 date: 2023-02-15 12:00:00 +0530
 categories: [DevOps, Cheatsheets]
 tags: [linux, bash, terminal, troubleshooting, server-management]
