@@ -8,7 +8,7 @@ order: 4
 
 ## Purpose
 
-🌐 This is a personal log of technical experiments and learnings that swapnilmali101 himself acquired through professional practice and independent study. 📚
+🌐 This is a personal log of technical experiments and learnings that swapnilmali101, aka Swapnil Mali himself acquired through professional practice and independent study. 📚
 
 🎯 This blog will be targeted towards developers, cloud and devops technologists, computer-hobbyists, beginners in computer science and growing folks who can actually use these technical insights in their day-to-day work. 💻✨
 
